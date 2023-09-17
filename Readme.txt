@@ -1,0 +1,1 @@
+Esta carpeta contiene mis apuntes sobre el uso del JDBC de Java
